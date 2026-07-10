@@ -158,7 +158,6 @@ streamlit run app.py
 - User Authentication
 - API Integration
 
----
 
 ## 👩‍💻 Author
 
