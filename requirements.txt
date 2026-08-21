@@ -1,6 +1,9 @@
 streamlit
-streamlit-option-menu
-plotly
 pandas
 numpy
+matplotlib
+seaborn
+plotly
 scikit-learn
+joblib
+streamlit-option-menu
